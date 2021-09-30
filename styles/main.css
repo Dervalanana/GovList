@@ -1,0 +1,14 @@
+.designee{
+    display: flex;
+    flex-flow: column nowrap;
+}
+.mainInfo{
+    display: flex;
+    align-items: stretch;
+}
+
+.details{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+}
